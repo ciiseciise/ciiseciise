@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ciise Ciise</h1>
 <h3 align="center">Passionate about IT Secuirty and scripting</h3>
 
-- 🌱 I’m currently learning **FullStack Udemy course**
+- 🌱 I’m currently learning **Scripting and Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
